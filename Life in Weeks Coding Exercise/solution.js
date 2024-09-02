@@ -13,7 +13,6 @@ function lifeInWeeks(age) {
         console.log("You have " + dayRemaining + " days, " + weekRemaining + " weeks," + 
         " and " + monthRemaining + " months left.")
         
-        
     /*************Don't change the code below**********/
     }
     
